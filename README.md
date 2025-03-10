@@ -33,6 +33,5 @@ An intelligent study planner application that helps students organize their sche
 - Express.js
 - Google Gemini AI
 - HTML/CSS/JavaScript
-=======
-# GenAI-StudBud
->>>>>>> b483a762c1bc4ce5407ea96d1eb28609dc6a49ca
+
+
